@@ -1,9 +1,12 @@
 ### Hi there 👋. My name is Kevin Zamperetti Schepke. Welcome to my GitHub.
 
 ##
+- Information Technology professional with experience in technical support, systems implanter and software development. Graduated in Systems Analysis and Development, always in constant evolution. 
 
-- 🔭 I’m currently working on Back-End Projects
-- 🌱 I’m currently learning C# 
+- Working as a systems developer since 2015 and since 2019 working with back-end development, using Java as the main language.
+
+- Knowledge in Java, Spring framework, SQL database (Oracle, Sqlserver, Postgresql) and Nosql (Mongodb, Solr), JavaScript, NodeJS, C#, Delphi, Ansible, Docker, Git, Scrum.
+##
 
 <div>
   <a href="https://github.com/kevinzamperetti">
